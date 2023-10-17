@@ -1,36 +1,29 @@
-### Olá, sou o Pedro 👋
+## Olá, sou o Pedro 💻🔥
+### Sejá muito Bem Vindo(a) ao meu perfil! 💙
 
-<div style="display: flex;">
-  <div style="margin-right: 10px;">
-    <a href="https://github.com/Pedro-Henrique300/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Henrique300&show_icons=true&theme=radical&count_private=true&locale=pt-br&text_color=00cccc" />
-    </a>
-  </div>
+<div>
+  <a href="https://github.com/Pedro-Henrique300/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Henrique300&show_icons=true&theme=dark&count_private=true&locale=pt-br&" />
+  </a>
+  <a href="https://github.com/Pedro-Henrique300/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique300&layout=compact&theme=dark&locale=pt-br&https://github.com/Pedro-Henrique300/github-readme-stats"/>
+  </a>
+</div>
 
-  <div style="margin-left: 10px;">
-    <a href="https://github.com/Pedro-Henrique300/convoychat">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique300&layout=compact&theme=radical&show_icons=true&count_private=true&locale=pt-br&text_color=00cccc&https://github.com/Pedro-Henrique300/github-readme-stats" />
-    </a>
-  </div>
+##
+### Linguagens e Ferramentas
+<div style="display: inline_block">
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>
 </div>
 
 
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Henrique300&show_icons=true&theme=radical&count_private=true&locale=pt-br&text_color=00cccc)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique300&layout=compact&theme=radical&show_icons=true&count_private=true&locale=pt-br&text_color=00cccc)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
-**Pedro-Henrique300/Pedro-Henrique300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
