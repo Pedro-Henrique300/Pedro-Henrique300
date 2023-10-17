@@ -1,13 +1,13 @@
 ### Olá, sou o Pedro 👋
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="margin: 10px; flex: 1;">
+<div style="display: flex;">
+  <div style="margin-right: 10px;">
     <a href="https://github.com/Pedro-Henrique300/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Henrique300&show_icons=true&theme=radical&count_private=true&locale=pt-br&text_color=00cccc" />
     </a>
   </div>
 
-  <div style="margin: 10px; flex: 1;">
+  <div style="margin-left: 10px;">
     <a href="https://github.com/Pedro-Henrique300/convoychat">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique300&layout=compact&theme=radical&show_icons=true&count_private=true&locale=pt-br&text_color=00cccc&https://github.com/Pedro-Henrique300/github-readme-stats" />
     </a>
@@ -16,7 +16,6 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Henrique300&theme=radical&&text_color=00cccc&repo=Pedro-Henrique300)](https://github.com/Pedro-Henrique300/README.md)
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Henrique300&show_icons=true&theme=radical&count_private=true&locale=pt-br&text_color=00cccc)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique300&layout=compact&theme=radical&show_icons=true&count_private=true&locale=pt-br&text_color=00cccc)](https://github.com/anuraghazra/github-readme-stats)
