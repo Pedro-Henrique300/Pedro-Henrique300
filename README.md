@@ -13,13 +13,13 @@
     </a>
     <h2>Linguagens e Ferramentas</h2>
     <div style="display: inline-block">
-      <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-      <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-      <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-      <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-      <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-      <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>
-    </div>
+      <img align="center" alt="Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+      <img align="center" alt="Jupyter" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+      <img align="center" alt="Git" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+      <img align="center" alt="Linguagem C" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+      <img align="center" alt="C++" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+      <img align="center" alt="Arduino" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>
+    <br>
     <h2>Contato</h2>
     <a href="pedrohenriquecamargo2019@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -29,10 +29,17 @@
     </a>
     <a href="https://api.whatsapp.com/send?phone=5515991440275&text=Ol%C3%A1,%20eu%20estava%20vendo%20seu%20perfil%20do%20GitHub...">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+     <div style="display: inline-block">
+      <img align="center" alt="GIF"
+        src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlmang5dWMwMDBrbzFjdmJhdTByOWQxNXI2a3p6cGk2NW40NXNuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcJ6n6VJNjRNS/giphy.gif"/>
     </a>
   </div>
 </body>
 </html>
+
+
+
+
 
 <!--
 <center>Olá, sou o Pedro 💻🔥</center>
