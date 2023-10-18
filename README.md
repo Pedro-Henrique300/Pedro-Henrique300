@@ -18,6 +18,7 @@
       <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
       <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
       <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+      <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>
     </div>
     <h2>Contato</h2>
     <a href="pedrohenriquecamargo2019@gmail.com">
