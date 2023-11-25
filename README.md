@@ -21,7 +21,7 @@
       <img align="center" alt="Arduino" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>
     <br>
     <h2>Contato</h2>
-    <a href="pedrohenriquecamargo2019@gmail.com">
+    <a href="mailto:pedrohenriquecamargo2019@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/pedro-henrique180405">
