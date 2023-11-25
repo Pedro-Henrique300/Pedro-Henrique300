@@ -5,9 +5,6 @@
   <div align="center">
     <h1>Olá, sou o Pedro 💻🔥</h1>
     <h2>Seja muito Bem Vindo(a) ao meu perfil! 💙</h2>
-    <a href="https://github.com/Pedro-Henrique300/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Henrique300&show_icons=true&theme=dark&count_private=true&locale=pt-br&" />
-    </a>
     <a href="https://github.com/Pedro-Henrique300/convoychat">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique300&layout=compact&theme=dark&locale=pt-br&https://github.com/Pedro-Henrique300/github-readme-stats"/>
     </a>
