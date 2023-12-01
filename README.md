@@ -3,8 +3,8 @@
 <html>
 <body>
   <div align="center">
-    <h1>Olá, sou o Pedro 💻🔥</h1>
-    <h2>Seja muito Bem Vindo(a) ao meu perfil! 💙</h2>
+    <h1>Olá, sou o Pedro 💻</h1>
+    <h2>Boas vindas ao meu perfil! 💙</h2>
     <a href="https://github.com/Pedro-Henrique300/convoychat">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique300&layout=compact&theme=dark&locale=pt-br&https://github.com/Pedro-Henrique300/github-readme-stats"/>
     </a>
@@ -17,6 +17,13 @@
       <img align="center" alt="C++" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
       <img align="center" alt="Arduino" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>
     <br>
+   <h2>Atualmente Estudando...</h2>
+<div align="left"">
+  <ul>
+    <li>Python: Aprofundando conhecimentos na linguagem, incluindo áreas como automação e análise de dados.</li>
+    <li>Linguagem C: Aprofundando conhecimentos para compreender melhor a estrutura e a lógica de programação de baixo nível.</li>
+  </ul>
+</div>
     <h2>Contato</h2>
     <a href="mailto:pedrohenriquecamargo2019@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
