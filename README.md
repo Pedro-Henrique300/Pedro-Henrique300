@@ -14,16 +14,8 @@
       <img align="center" alt="Jupyter" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
       <img align="center" alt="Git" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
       <img align="center" alt="Linguagem C" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-      <img align="center" alt="C++" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
       <img align="center" alt="Arduino" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>
-    <br>
-   <h2>Atualmente Estudando...</h2>
-<div align="left"">
-  <ul>
-    <li>Python: Aprofundando conhecimentos na linguagem, incluindo áreas como automação e análise de dados.</li>
-    <li>Linguagem C: Aprofundando conhecimentos para compreender melhor a estrutura e a lógica de programação de baixo nível.</li>
-  </ul>
-</div>
+    </div>
     <h2>Contato</h2>
     <a href="mailto:pedrohenriquecamargo2019@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
