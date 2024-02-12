@@ -33,7 +33,7 @@
 </body>
 </html>
 
-![Snake animation](https://github.com/Pedro-Henrique300/Pedro-Henrique300/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Pedro-Henrique300/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
