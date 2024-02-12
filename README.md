@@ -8,19 +8,26 @@
     <a href="https://github.com/Pedro-Henrique300/convoychat">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique300&layout=compact&theme=dark&locale=pt-br&https://github.com/Pedro-Henrique300/github-readme-stats"/>
     </a>
-    <h2>Linguagens e Ferramentas</h2>
+    <h2>O que eu sei</h2>
     <div style="display: inline-block">
       <img align="center" alt="Python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
       <img align="center" alt="Jupyter" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+      <img align="center" alt="VS Code" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
       <img align="center" alt="Git" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
       <img align="center" alt="Linguagem C" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
       <img align="center" alt="Arduino" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>
+    </div>
+      <h2>O que estou estudando</h2>
+    <div style="display: inline-block">
+      <img align="center" alt="Bash" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+      <img align="center" alt="PowerShell" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+      <img align="center" alt="Linux" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
     </div>
     <h2>Contato</h2>
     <a href="mailto:pedrohenriquecamargo2019@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/pedro-henrique180405">
+    <a href="https://www.linkedin.com/in/pedro-henrique-camargo">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://api.whatsapp.com/send?phone=5515991440275&text=Ol%C3%A1,%20eu%20estava%20vendo%20seu%20perfil%20do%20GitHub...">
@@ -32,8 +39,6 @@
   </div>
 </body>
 </html>
-
-![Snake animation](https://github.com/Pedro-Henrique300/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
